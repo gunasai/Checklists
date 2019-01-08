@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B012053E21E55A5800C6D289 /* AddItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B012053D21E55A5800C6D289 /* AddItemTableViewController.swift */; };
 		B062030C21AFA217004CF334 /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B062030B21AFA217004CF334 /* ChecklistItem.swift */; };
 		B089837921A6092A004B8F74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B089837821A6092A004B8F74 /* AppDelegate.swift */; };
 		B089837B21A6092A004B8F74 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B089837A21A6092A004B8F74 /* ChecklistViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B012053D21E55A5800C6D289 /* AddItemTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemTableViewController.swift; sourceTree = "<group>"; };
 		B062030B21AFA217004CF334 /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
 		B089837521A6092A004B8F74 /* Checklist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B089837821A6092A004B8F74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				B0BF752B21AF229500531858 /* ProtocolsPlayground.playground */,
 				B062030B21AFA217004CF334 /* ChecklistItem.swift */,
 				B0BF64B721C6D9810076672B /* TodoList.swift */,
+				B012053D21E55A5800C6D289 /* AddItemTableViewController.swift */,
 			);
 			path = Checklist;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B089837B21A6092A004B8F74 /* ChecklistViewController.swift in Sources */,
+				B012053E21E55A5800C6D289 /* AddItemTableViewController.swift in Sources */,
 				B062030C21AFA217004CF334 /* ChecklistItem.swift in Sources */,
 				B089837921A6092A004B8F74 /* AppDelegate.swift in Sources */,
 				B0BF64B821C6D9810076672B /* TodoList.swift in Sources */,
